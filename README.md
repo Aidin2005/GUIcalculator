@@ -61,9 +61,3 @@ _Input:_ `10 / 2 =`
 _Output:_ `5`
 <img width="486" alt="Screenshot 2025-03-16 at 4 53 28 PM" src="https://github.com/user-attachments/assets/19c3447f-9da7-4200-9e9a-3694f22e468c" />
 
-## Warning
-This implementation uses Python's `eval()` function to compute expressions, which can be unsafe if user input is not properly sanitized. Consider using a safer evaluation method for production use.
-
-## License
-This project is open-source and free to use.
-
