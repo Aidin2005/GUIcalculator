@@ -46,16 +46,20 @@ This class defines the graphical user interface of the calculator using PyQt6 wi
 
 ## Sample Input/Output
 **Example 1:**
+<img width="487" alt="Screenshot 2025-03-16 at 4 52 29 PM" src="https://github.com/user-attachments/assets/dceeab95-4400-423d-91b1-d7d1d96eb6d1" />
 
 _Input:_ `3 + 5 =`
 
 _Output:_ `8`
+<img width="487" alt="Screenshot 2025-03-16 at 4 52 44 PM" src="https://github.com/user-attachments/assets/41867b39-ef80-493e-aa0d-aa924e85d4e6" />
 
 **Example 2:**
+<img width="486" alt="Screenshot 2025-03-16 at 4 53 19 PM" src="https://github.com/user-attachments/assets/6d2d428d-f1c8-448f-b109-47bacbce601a" />
 
 _Input:_ `10 / 2 =`
 
 _Output:_ `5`
+<img width="486" alt="Screenshot 2025-03-16 at 4 53 28 PM" src="https://github.com/user-attachments/assets/19c3447f-9da7-4200-9e9a-3694f22e468c" />
 
 ## Warning
 This implementation uses Python's `eval()` function to compute expressions, which can be unsafe if user input is not properly sanitized. Consider using a safer evaluation method for production use.
